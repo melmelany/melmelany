@@ -1,7 +1,6 @@
-##Olá! eu sou a Melany Correa
+##Olá!
 
 - 📷 Sou estudante de front-end
-- 😄 Pronouns:ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
